@@ -11,8 +11,8 @@ I bridge the gap between complex data and intelligent applications. Passionate a
 | :--- | :--- |
 | **Languages** | Python, SQL, JavaScript, HTML/CSS |
 | **Data Science & ML** | NumPy, Pandas, Scikit-Learn, TensorFlow, Deep Learning |
-| **Web Development** | Django, REST APIs |
-| **Data Visualization**| Tableau, Matplotlib, Seaborn |
+| **Web Development** | Django, REST APIs, Node.js, Express.js |
+| **Data Visualization**| Tableau, Matplotlib, Seaborn, PowerBI|
 | **DevOps & Tools** | Git, GitHub, VS Code |
 
 ---
