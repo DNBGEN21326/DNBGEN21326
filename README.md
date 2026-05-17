@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Dev Narayan Bhardwaj! 👋
 
-<!--
-**DNBGEN21326/DNBGEN21326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Scientist & AI/ML Engineer
+I bridge the gap between complex data and intelligent applications. Passionate about uncovering insights from data, building predictive machine learning models, and deploying robust full-stack solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, JavaScript, HTML/CSS |
+| **Data Science & ML** | NumPy, Pandas, Scikit-Learn, TensorFlow, Deep Learning |
+| **Web Development** | Django, REST APIs |
+| **Data Visualization**| Tableau, Matplotlib, Seaborn |
+| **DevOps & Tools** | Git, GitHub, VS Code |
+
+---
+
+### 💻 Featured Projects
+
+#### 🩺 [Cardio Risk Predictor](https://github.com/DNBGEN21326/cardio)
+* **What it is:** A Machine Learning project designed to predict cardiovascular risk using clinical patient data.
+* **Tech Stack:** Python, Scikit-Learn, Pandas, Jupyter Notebook.
+* *Note: Working on deploying a web-based UI for this soon!*
+
+#### 🛒 [E-Commerce Platform](https://github.com/DNBGEN21326/E---COMMERCE)
+* **What it is:** A full-stack e-commerce web application featuring user authentication, product management, and cart functionality.
+* **Tech Stack:** Python, Django, SQL, HTML/CSS.
+
+---
+
+### 📊 GitHub Analytics
+
+📈 **My GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=DNBGEN21326&show_icons=true&theme=radical)
+
+🔥 **Top Languages**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DNBGEN21326&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/devnarayanbhardwaj]
+* 📧 **Email:** [devgbhardwaj@gmail.com]
